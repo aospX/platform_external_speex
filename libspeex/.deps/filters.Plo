@@ -1,0 +1,68 @@
+filters.lo: filters.c ../config.h filters.h arch.h \
+ ../include/speex/speex_types.h ../include/speex/speex_config_types.h \
+ fixed_generic.h fixed_arm5e.h stack_alloc.h math_approx.h ltp.h \
+ ../include/speex/speex_bits.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/math.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/features.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/huge_val.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/huge_valf.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/huge_vall.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/inf.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/nan.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/mathdef.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/mathcalls.h \
+ filters_arm4.h
+
+../config.h:
+
+filters.h:
+
+arch.h:
+
+../include/speex/speex_types.h:
+
+../include/speex/speex_config_types.h:
+
+fixed_generic.h:
+
+fixed_arm5e.h:
+
+stack_alloc.h:
+
+math_approx.h:
+
+ltp.h:
+
+../include/speex/speex_bits.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/math.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/features.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/huge_val.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/huge_valf.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/huge_vall.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/inf.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/nan.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/mathdef.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/mathcalls.h:
+
+filters_arm4.h:

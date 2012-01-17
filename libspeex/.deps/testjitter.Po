@@ -1,0 +1,55 @@
+testjitter.o: testjitter.c ../config.h ../include/speex/speex_jitter.h \
+ ../include/speex/speex_types.h ../include/speex/speex_config_types.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/stdio.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/features.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../lib/gcc/arm-linux-gnueabi/4.5.2/include/stddef.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/types.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/libio.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/_G_config.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/wchar.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../lib/gcc/arm-linux-gnueabi/4.5.2/include/stdarg.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/stdio_lim.h \
+ /opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/sys_errlist.h
+
+../config.h:
+
+../include/speex/speex_jitter.h:
+
+../include/speex/speex_types.h:
+
+../include/speex/speex_config_types.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/stdio.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/features.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../lib/gcc/arm-linux-gnueabi/4.5.2/include/stddef.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/libio.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/_G_config.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/wchar.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../lib/gcc/arm-linux-gnueabi/4.5.2/include/stdarg.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/stdio_lim.h:
+
+/opt/linaro-gcc-4.5-arm-linux-gnueabi-32bit/bin/../arm-linux-gnueabi/libc/usr/include/bits/sys_errlist.h:
