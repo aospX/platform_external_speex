@@ -36,7 +36,7 @@ LOCAL_CFLAGS+= -O3 -fstrict-aliasing -fprefetch-loop-arrays
 LOCAL_C_INCLUDES += \
 	$(LOCAL_PATH)/include
 
-include $(BUILD_STATIC_LIBRARY)
+include $(BUILD_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
 
